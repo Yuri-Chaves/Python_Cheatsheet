@@ -1,0 +1,7 @@
+print(f'Soma : 10 + 30 = {10 + 30}')
+print(f'Subtração: 10 - 30 = {10 - 30}')
+print(f'Multiplicação: 10 * 30 = {10 * 30}')
+print(f'Divisão(Float): 30 / 10 = {30 / 10}')
+print(f'Divisão(Int): 30 // 10 = {30 // 10}')
+print(f'Módulo(resto de divisão): 25 % 2 = {25 % 2}')
+print(f'Potenciação: 5 ** 3 = {5 ** 3}')
